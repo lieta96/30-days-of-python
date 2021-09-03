@@ -16,16 +16,16 @@ Toda la info completa del desafío <a href="https://github.com/frontendcafe/py-s
     <tr>
         <td>1</td>
         <td>Introducción</td>
-        <td><a href="" target="_blank">Solución</a></td>
+        <td><a href="https://github.com/lieta96/30-days-of-python/tree/master/day_01" target="_blank">Solución</a></td>
     </tr>
     <tr>
         <td>2</td>
         <td>Variables</td>
-        <td><a href="" target="_blank">Solución</a></td>
+        <td><a href="https://github.com/lieta96/30-days-of-python/tree/master/day_02" target="_blank">Solución</a></td>
     </tr>
     <tr>
         <td>3</td>
         <td>Operadores</td>
-        <td><a href="" target="_blank">Solución</a></td>
+        <td><a href="https://github.com/lieta96/30-days-of-python/tree/master/day_03" target="_blank">Solución</a></td>
     </tr>
 </table>
