@@ -28,4 +28,11 @@ Toda la info completa del desafío <a href="https://github.com/frontendcafe/py-s
         <td>Operadores</td>
         <td><a href="https://github.com/lieta96/30-days-of-python/tree/master/day_03" target="_blank">Solución</a></td>
     </tr>
+    <tr>
+        <td>4</td>
+        <td>Strings</td>
+        <td><a href="https://github.com/lieta96/30-days-of-python/tree/master/day_04" target="_blank">Solución</a></td>
+    </tr>
+
+    
 </table>
