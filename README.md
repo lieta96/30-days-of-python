@@ -43,5 +43,11 @@ Toda la info completa del desafío <a href="https://github.com/frontendcafe/py-s
         <td>6</td>
         <td>Tuplas</td>
         <td><a href="https://github.com/lieta96/30-days-of-python/tree/master/day_06" target="_blank">Solución</a></td>
-    </tr>      
+    </tr>
+    </tr>
+        <tr>
+        <td>7</td>
+        <td>Sets</td>
+        <td><a href="https://github.com/lieta96/30-days-of-python/tree/master/day_07" target="_blank">Solución</a></td>
+    </tr>        
 </table>
