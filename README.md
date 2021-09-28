@@ -55,5 +55,11 @@ Toda la info completa del desafío <a href="https://github.com/frontendcafe/py-s
         <td>8</td>
         <td>Dictionaries</td>
         <td><a href="https://github.com/lieta96/30-days-of-python/tree/master/day_08" target="_blank">Solución</a></td>
-    </tr>        
+    </tr>
+    </tr>
+        <tr>
+        <td>9</td>
+        <td>Conditionals</td>
+        <td><a href="https://github.com/lieta96/30-days-of-python/tree/master/day_09" target="_blank">Solución</a></td>
+    </tr>                
 </table>
